@@ -1,0 +1,13 @@
+E:\C#\YAK.CLI\YAK.CLI\bin\Debug\netcoreapp3.1\YAK.CLI.exe
+E:\C#\YAK.CLI\YAK.CLI\bin\Debug\netcoreapp3.1\YAK.CLI.deps.json
+E:\C#\YAK.CLI\YAK.CLI\bin\Debug\netcoreapp3.1\YAK.CLI.runtimeconfig.json
+E:\C#\YAK.CLI\YAK.CLI\bin\Debug\netcoreapp3.1\YAK.CLI.runtimeconfig.dev.json
+E:\C#\YAK.CLI\YAK.CLI\bin\Debug\netcoreapp3.1\YAK.CLI.dll
+E:\C#\YAK.CLI\YAK.CLI\bin\Debug\netcoreapp3.1\YAK.CLI.pdb
+E:\C#\YAK.CLI\YAK.CLI\obj\Debug\netcoreapp3.1\YAK.CLI.csprojAssemblyReference.cache
+E:\C#\YAK.CLI\YAK.CLI\obj\Debug\netcoreapp3.1\YAK.CLI.AssemblyInfoInputs.cache
+E:\C#\YAK.CLI\YAK.CLI\obj\Debug\netcoreapp3.1\YAK.CLI.AssemblyInfo.cs
+E:\C#\YAK.CLI\YAK.CLI\obj\Debug\netcoreapp3.1\YAK.CLI.csproj.CoreCompileInputs.cache
+E:\C#\YAK.CLI\YAK.CLI\obj\Debug\netcoreapp3.1\YAK.CLI.dll
+E:\C#\YAK.CLI\YAK.CLI\obj\Debug\netcoreapp3.1\YAK.CLI.pdb
+E:\C#\YAK.CLI\YAK.CLI\obj\Debug\netcoreapp3.1\YAK.CLI.genruntimeconfig.cache
