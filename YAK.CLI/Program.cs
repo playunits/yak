@@ -47,8 +47,7 @@ namespace YAK.CLI
                 if (Constants.Spinner.IsRunning())
                 {
                     Constants.Spinner.Stop(IOStatus.ERROR, $"Error: {Constants.Spinner.Message}!");
-                }
-                //Console.Write(GenerateExceptionUsage(e));
+                }                
                 throw;
             }
         }
